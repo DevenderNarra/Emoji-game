@@ -1,0 +1,13 @@
+.emoji-game {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.emoji-container {
+  height: 50vh;
+  width: 60vw;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

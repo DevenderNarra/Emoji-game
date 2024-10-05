@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+  background-color: #9796f0;
+}
+
+.logo {
+  height: 50px;
+}
+
+.score-container {
+  display: flex;
+  align-items: center;
+}
+
+.score,
+.top-score {
+  margin: 0 10px;
+}

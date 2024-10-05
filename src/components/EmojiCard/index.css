@@ -1,0 +1,14 @@
+.emoji-card {
+  cursor: pointer;
+  display: inline-block;
+  margin: 10px;
+}
+
+.emoji-card img {
+  height: 120px;
+  width: 150px;
+}
+
+li {
+  list-style: none;
+}

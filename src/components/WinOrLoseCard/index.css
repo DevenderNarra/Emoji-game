@@ -1,0 +1,12 @@
+.result-card {
+  text-align: center;
+}
+
+.result-image {
+  height: 200px;
+}
+
+.play-again-button {
+  margin-top: 20px;
+  cursor: pointer;
+}
